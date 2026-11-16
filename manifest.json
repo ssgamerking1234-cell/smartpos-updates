@@ -1,0 +1,14 @@
+{
+  "format": "smartpos-update-1",
+  "releases": [
+    {
+      "version": "2.4.0",
+      "date": "2026-11-15",
+      "notes": "Smart POS 2.4.0: الباقات والتفعيل والتحديثات التلقائية وتقرير واتساب وحساب الباقي",
+      "desktopShell": "dad1316962cba0de0528f373",
+      "androidShell": "760104a6b9e1615e61b431ff"
+    }
+  ],
+  "published": "2026-11-15T19:29:43.436Z",
+  "sig": "4e04deff380cd6e28243f2709c68338815732f7ffd23a90c2f2c1eeac962ab009b57c7f3236d43d48e14ccf4cd601c44967e75095d36bb24633b5fda8fde8604"
+}
