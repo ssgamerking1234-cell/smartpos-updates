@@ -1,47 +1,70 @@
 {
- "format": "smartpos-update-1",
- "releases": [
-  {
-   "version": "2.4.0",
-   "date": "2026-11-15",
-   "notes": "Smart POS 2.4.0: \u0627\u0644\u0628\u0627\u0642\u0627\u062a \u0648\u0627\u0644\u062a\u0641\u0639\u064a\u0644 \u0648\u0627\u0644\u062a\u062d\u062f\u064a\u062b\u0627\u062a \u0627\u0644\u062a\u0644\u0642\u0627\u0626\u064a\u0629 \u0648\u062a\u0642\u0631\u064a\u0631 \u0648\u0627\u062a\u0633\u0627\u0628 \u0648\u062d\u0633\u0627\u0628 \u0627\u0644\u0628\u0627\u0642\u064a",
-   "desktopShell": "dad1316962cba0de0528f373",
-   "androidShell": "760104a6b9e1615e61b431ff"
+  "format": "smartpos-update-1",
+  "releases": [
+    {
+      "version": "2.4.0",
+      "date": "2026-11-15",
+      "notes": "Smart POS 2.4.0: الباقات والتفعيل والتحديثات التلقائية وتقرير واتساب وحساب الباقي",
+      "desktopShell": "dad1316962cba0de0528f373",
+      "androidShell": "760104a6b9e1615e61b431ff"
+    },
+    {
+      "version": "2.5.0",
+      "date": "2026-11-15",
+      "notes": "Smart POS 2.5.0: فاتورة فخمة جديدة، خط أكبر للطلبات والملاحظات، حساب الباقي، تقرير واتساب",
+      "desktopShell": "c891a0e800e50c3689d71f18",
+      "androidShell": "760104a6b9e1615e61b431ff"
+    },
+    {
+      "version": "2.5.1",
+      "date": "2026-11-16",
+      "notes": "Smart POS 2.5.1: إلغاء الفاتورة يرجّع مواد الطلب للمخزون",
+      "desktopShell": "23018898e3db4e1d6858dfb4",
+      "androidShell": "760104a6b9e1615e61b431ff"
+    },
+    {
+      "version": "2.6.0",
+      "date": "2026-11-16",
+      "notes": "Smart POS 2.6.0: الأرباح والمصاريف والضريبة، سجل الزبائن، نسخة احتياطية خارج الجهاز، قائمة أسهل",
+      "desktopShell": "7accf9936e2206300865843a",
+      "androidShell": "760104a6b9e1615e61b431ff"
+    },
+    {
+      "version": "2.6.1",
+      "date": "2026-11-16",
+      "notes": "Smart POS 2.6.1: تنزيل وتثبيت النسخة الجديدة من داخل البرنامج، وتفعيل أسهل (لصق الكود بضغطة وإرسال رقم الجهاز على واتساب)",
+      "desktopShell": "c3f630cc416f9f24a2d1221d",
+      "androidShell": "070974ac9be5f2fb49aefb45",
+      "desktopExe": {
+        "file": "Smart-POS-Portable-2.6.1-x64.exe",
+        "sha256": "c66ce89114e80c0c5cc9952cab9a51c049afc40cd50cf745234e6b671cfb2683",
+        "size": 99569595
+      }
+    }
+  ],
+  "published": "2026-11-16T21:57:47.695Z",
+  "latest": {
+    "version": "2.6.2",
+    "date": "2026-11-16",
+    "notes": "تحديث تجريبي: رقم الإصدار يظهر في شاشة الدخول، ورسالة تأكيد بعد كل تحديث",
+    "desktop": {
+      "file": "smartpos-desktop-2.6.2.pkg",
+      "sha256": "c4ee2dbec89e79dc516d2fd2fd44004a00a616efb7e1b99fd0f169bc0c13551a",
+      "size": 250984,
+      "minShell": "2.6.1",
+      "shells": [
+        "2.6.1"
+      ]
+    },
+    "android": {
+      "file": "smartpos-android-2.6.2.pkg",
+      "sha256": "e879ed8863e760c8e64f6c71ade587fd6f6689972be74708e3b87fdfa6e06621",
+      "size": 804917,
+      "minShell": "2.6.1",
+      "shells": [
+        "2.6.1"
+      ]
+    }
   },
-  {
-   "version": "2.5.0",
-   "date": "2026-11-15",
-   "notes": "Smart POS 2.5.0: \u0641\u0627\u062a\u0648\u0631\u0629 \u0641\u062e\u0645\u0629 \u062c\u062f\u064a\u062f\u0629\u060c \u062e\u0637 \u0623\u0643\u0628\u0631 \u0644\u0644\u0637\u0644\u0628\u0627\u062a \u0648\u0627\u0644\u0645\u0644\u0627\u062d\u0638\u0627\u062a\u060c \u062d\u0633\u0627\u0628 \u0627\u0644\u0628\u0627\u0642\u064a\u060c \u062a\u0642\u0631\u064a\u0631 \u0648\u0627\u062a\u0633\u0627\u0628",
-   "desktopShell": "c891a0e800e50c3689d71f18",
-   "androidShell": "760104a6b9e1615e61b431ff"
-  },
-  {
-   "version": "2.5.1",
-   "date": "2026-11-16",
-   "notes": "Smart POS 2.5.1: \u0625\u0644\u063a\u0627\u0621 \u0627\u0644\u0641\u0627\u062a\u0648\u0631\u0629 \u064a\u0631\u062c\u0651\u0639 \u0645\u0648\u0627\u062f \u0627\u0644\u0637\u0644\u0628 \u0644\u0644\u0645\u062e\u0632\u0648\u0646",
-   "desktopShell": "23018898e3db4e1d6858dfb4",
-   "androidShell": "760104a6b9e1615e61b431ff"
-  },
-  {
-   "version": "2.6.0",
-   "date": "2026-11-16",
-   "notes": "Smart POS 2.6.0: \u0627\u0644\u0623\u0631\u0628\u0627\u062d \u0648\u0627\u0644\u0645\u0635\u0627\u0631\u064a\u0641 \u0648\u0627\u0644\u0636\u0631\u064a\u0628\u0629\u060c \u0633\u062c\u0644 \u0627\u0644\u0632\u0628\u0627\u0626\u0646\u060c \u0646\u0633\u062e\u0629 \u0627\u062d\u062a\u064a\u0627\u0637\u064a\u0629 \u062e\u0627\u0631\u062c \u0627\u0644\u062c\u0647\u0627\u0632\u060c \u0642\u0627\u0626\u0645\u0629 \u0623\u0633\u0647\u0644",
-   "desktopShell": "7accf9936e2206300865843a",
-   "androidShell": "760104a6b9e1615e61b431ff"
-  },
-  {
-   "version": "2.6.1",
-   "date": "2026-11-16",
-   "notes": "Smart POS 2.6.1: \u062a\u0646\u0632\u064a\u0644 \u0648\u062a\u062b\u0628\u064a\u062a \u0627\u0644\u0646\u0633\u062e\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629 \u0645\u0646 \u062f\u0627\u062e\u0644 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c\u060c \u0648\u062a\u0641\u0639\u064a\u0644 \u0623\u0633\u0647\u0644 (\u0644\u0635\u0642 \u0627\u0644\u0643\u0648\u062f \u0628\u0636\u063a\u0637\u0629 \u0648\u0625\u0631\u0633\u0627\u0644 \u0631\u0642\u0645 \u0627\u0644\u062c\u0647\u0627\u0632 \u0639\u0644\u0649 \u0648\u0627\u062a\u0633\u0627\u0628)",
-   "desktopShell": "c3f630cc416f9f24a2d1221d",
-   "androidShell": "070974ac9be5f2fb49aefb45",
-   "desktopExe": {
-    "file": "Smart-POS-Portable-2.6.1-x64.exe",
-    "sha256": "c66ce89114e80c0c5cc9952cab9a51c049afc40cd50cf745234e6b671cfb2683",
-    "size": 99569595
-   }
-  }
- ],
- "published": "2026-11-16T11:21:26.485Z",
- "sig": "2c36e51b370f950988a0ee2d9de47cf0a504f6d2cea636dffe27bf13a99c15f9ace73e1f849523e65c990051eb1af4ab15f9bf34e360f15ba0f14e02499aa605"
+  "sig": "451e851514ad982e948679589158a113b876e0f9e8f8898fe230affaf2136eb6cc0fecad91e113a10a804055d2b2124e09e20317b1b0512cf77192c69f0be401"
 }
