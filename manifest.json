@@ -1,14 +1,35 @@
 {
-  "format": "smartpos-update-1",
-  "releases": [
-    {
-      "version": "2.4.0",
-      "date": "2026-11-15",
-      "notes": "Smart POS 2.4.0: الباقات والتفعيل والتحديثات التلقائية وتقرير واتساب وحساب الباقي",
-      "desktopShell": "dad1316962cba0de0528f373",
-      "androidShell": "760104a6b9e1615e61b431ff"
-    }
-  ],
-  "published": "2026-11-15T19:29:43.436Z",
-  "sig": "4e04deff380cd6e28243f2709c68338815732f7ffd23a90c2f2c1eeac962ab009b57c7f3236d43d48e14ccf4cd601c44967e75095d36bb24633b5fda8fde8604"
+ "format": "smartpos-update-1",
+ "releases": [
+  {
+   "version": "2.4.0",
+   "date": "2026-11-15",
+   "notes": "Smart POS 2.4.0: الباقات والتفعيل والتحديثات التلقائية وتقرير واتساب وحساب الباقي",
+   "desktopShell": "dad1316962cba0de0528f373",
+   "androidShell": "760104a6b9e1615e61b431ff"
+  },
+  {
+   "version": "2.5.0",
+   "date": "2026-11-15",
+   "notes": "Smart POS 2.5.0: فاتورة فخمة جديدة، خط أكبر للطلبات والملاحظات، حساب الباقي، تقرير واتساب",
+   "desktopShell": "c891a0e800e50c3689d71f18",
+   "androidShell": "760104a6b9e1615e61b431ff"
+  },
+  {
+   "version": "2.5.1",
+   "date": "2026-11-16",
+   "notes": "Smart POS 2.5.1: إلغاء الفاتورة يرجّع مواد الطلب للمخزون",
+   "desktopShell": "23018898e3db4e1d6858dfb4",
+   "androidShell": "760104a6b9e1615e61b431ff"
+  },
+  {
+   "version": "2.6.0",
+   "date": "2026-11-16",
+   "notes": "Smart POS 2.6.0: الأرباح والمصاريف والضريبة، سجل الزبائن، نسخة احتياطية خارج الجهاز، قائمة أسهل",
+   "desktopShell": "7accf9936e2206300865843a",
+   "androidShell": "760104a6b9e1615e61b431ff"
+  }
+ ],
+ "published": "2026-11-16T10:48:36.566Z",
+ "sig": "a13311bde04dbc6b98398ff0d5fa402c38bb8b82afdc99fc9128a3b6d21a1cd709d13843ffed1ba2cf04ead8c7bb4e232a3eaab154a33991f3a8241c6ab0eb0c"
 }
