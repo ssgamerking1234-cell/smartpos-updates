@@ -46,7 +46,7 @@
       "date": "2026-11-16",
       "notes": "Smart POS 2.7.0: ربط عدة أجهزة على نفس الكاش — تلفونات الويترز والتابلت وكمبيوتر ثاني عبر واي فاي المحل",
       "desktopShell": "ac6d71a0e828f8a9ae3ebdac",
-      "androidShell": "070974ac9be5f2fb49aefb45",
+      "androidShell": "3589c03f04b0bef530359020",
       "desktopExe": {
         "file": "Smart-POS-Portable-2.7.0-x64.exe",
         "sha256": "808149230d33b0d2d009cffd134c15e41746dc823304256b0d575d54d0a18c08",
@@ -54,6 +54,29 @@
       }
     }
   ],
-  "published": "2026-11-16T22:27:53.948Z",
-  "sig": "ab1e869f02abff76f14ff64aecdd64a6d1d8c666586371c69757e783ab4929a65a862497c574506b117238540c1937e8fb7ec35d8416e05bd4b5c57285cab609"
+  "published": "2026-11-16T23:06:19.588Z",
+  "latest": {
+    "version": "2.7.1",
+    "date": "2026-11-16",
+    "notes": "Smart POS 2.7.1: تسجيل الدخول ببطاقة QR لكل موظف، وإصلاح دخول التلفونات المربوطة بالكاش",
+    "desktop": {
+      "file": "smartpos-desktop-2.7.1.pkg",
+      "sha256": "3ac09b75f3a0580b5a78bd226136bcfb8ca0c7bf56bd5b91bdcaa442e82625b1",
+      "size": 337934,
+      "minShell": "2.7.0",
+      "shells": [
+        "2.7.0"
+      ]
+    },
+    "android": {
+      "file": "smartpos-android-2.7.1.pkg",
+      "sha256": "74667cb1401b5e7e65638de486e52f421d56ccd72a8258449e5d757f92e2330b",
+      "size": 974972,
+      "minShell": "2.7.0",
+      "shells": [
+        "2.7.0"
+      ]
+    }
+  },
+  "sig": "76aa7e2e845a6010936467ff3dabcdd303eb0fa2f5ea4397caf66043e9690de443e1fd802fe2e0b0a75c576a468afb3b2c417f29b9a3af06dbcf2c04a75dad0d"
 }
