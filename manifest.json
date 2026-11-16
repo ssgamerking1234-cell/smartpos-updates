@@ -54,29 +54,29 @@
       }
     }
   ],
-  "published": "2026-11-16T23:06:19.588Z",
+  "published": "2026-11-16T23:14:03.259Z",
   "latest": {
-    "version": "2.7.1",
+    "version": "2.7.2",
     "date": "2026-11-16",
-    "notes": "Smart POS 2.7.1: تسجيل الدخول ببطاقة QR لكل موظف، وإصلاح دخول التلفونات المربوطة بالكاش",
+    "notes": "Smart POS 2.7.2: ادخل على الكمبيوتر من تلفونك — صوّر كود شاشة الدخول (زي واتساب ويب)",
     "desktop": {
-      "file": "smartpos-desktop-2.7.1.pkg",
-      "sha256": "3ac09b75f3a0580b5a78bd226136bcfb8ca0c7bf56bd5b91bdcaa442e82625b1",
-      "size": 337934,
+      "file": "smartpos-desktop-2.7.2.pkg",
+      "sha256": "07c6593331cc30875fe6ac4793add59a65cd808563c9551ebb08e89e6b4bdc34",
+      "size": 340022,
       "minShell": "2.7.0",
       "shells": [
         "2.7.0"
       ]
     },
     "android": {
-      "file": "smartpos-android-2.7.1.pkg",
-      "sha256": "74667cb1401b5e7e65638de486e52f421d56ccd72a8258449e5d757f92e2330b",
-      "size": 974972,
+      "file": "smartpos-android-2.7.2.pkg",
+      "sha256": "a7254b485524a6194d3e659283847349d4c59ddfa1d23ce63939b42dbc0fdf44",
+      "size": 978143,
       "minShell": "2.7.0",
       "shells": [
         "2.7.0"
       ]
     }
   },
-  "sig": "76aa7e2e845a6010936467ff3dabcdd303eb0fa2f5ea4397caf66043e9690de443e1fd802fe2e0b0a75c576a468afb3b2c417f29b9a3af06dbcf2c04a75dad0d"
+  "sig": "a0a2b9325ef1cf6a5d246b69d9d1e5216c39781aaf0a023e744ea6765f9f373e56c571df7f451c7947ee4135253370d6f760126960607183f6a633e50d1f5509"
 }
