@@ -40,31 +40,20 @@
         "sha256": "c66ce89114e80c0c5cc9952cab9a51c049afc40cd50cf745234e6b671cfb2683",
         "size": 99569595
       }
+    },
+    {
+      "version": "2.7.0",
+      "date": "2026-11-16",
+      "notes": "Smart POS 2.7.0: ربط عدة أجهزة على نفس الكاش — تلفونات الويترز والتابلت وكمبيوتر ثاني عبر واي فاي المحل",
+      "desktopShell": "ac6d71a0e828f8a9ae3ebdac",
+      "androidShell": "070974ac9be5f2fb49aefb45",
+      "desktopExe": {
+        "file": "Smart-POS-Portable-2.7.0-x64.exe",
+        "sha256": "808149230d33b0d2d009cffd134c15e41746dc823304256b0d575d54d0a18c08",
+        "size": 99803459
+      }
     }
   ],
-  "published": "2026-11-16T21:57:47.695Z",
-  "latest": {
-    "version": "2.6.2",
-    "date": "2026-11-16",
-    "notes": "تحديث تجريبي: رقم الإصدار يظهر في شاشة الدخول، ورسالة تأكيد بعد كل تحديث",
-    "desktop": {
-      "file": "smartpos-desktop-2.6.2.pkg",
-      "sha256": "c4ee2dbec89e79dc516d2fd2fd44004a00a616efb7e1b99fd0f169bc0c13551a",
-      "size": 250984,
-      "minShell": "2.6.1",
-      "shells": [
-        "2.6.1"
-      ]
-    },
-    "android": {
-      "file": "smartpos-android-2.6.2.pkg",
-      "sha256": "e879ed8863e760c8e64f6c71ade587fd6f6689972be74708e3b87fdfa6e06621",
-      "size": 804917,
-      "minShell": "2.6.1",
-      "shells": [
-        "2.6.1"
-      ]
-    }
-  },
-  "sig": "451e851514ad982e948679589158a113b876e0f9e8f8898fe230affaf2136eb6cc0fecad91e113a10a804055d2b2124e09e20317b1b0512cf77192c69f0be401"
+  "published": "2026-11-16T22:27:53.948Z",
+  "sig": "ab1e869f02abff76f14ff64aecdd64a6d1d8c666586371c69757e783ab4929a65a862497c574506b117238540c1937e8fb7ec35d8416e05bd4b5c57285cab609"
 }
