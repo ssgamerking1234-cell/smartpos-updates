@@ -52,31 +52,20 @@
         "sha256": "808149230d33b0d2d009cffd134c15e41746dc823304256b0d575d54d0a18c08",
         "size": 99803459
       }
+    },
+    {
+      "version": "2.8.0",
+      "date": "2026-11-17",
+      "notes": "Smart POS 2.8.0: البرنامج بيفتح جدار الحماية للتلفونات لحاله، وبيختار شبكة الواي فاي الصح",
+      "desktopShell": "072b497d8526f8a11a63d555",
+      "androidShell": "3589c03f04b0bef530359020",
+      "desktopExe": {
+        "file": "Smart-POS-Portable-2.8.0-x64.exe",
+        "sha256": "ee550affe8cd31d9188808482f5429a9a02648132049356395df80891d7a374d",
+        "size": 99842874
+      }
     }
   ],
-  "published": "2026-11-16T23:25:58.333Z",
-  "latest": {
-    "version": "2.7.3",
-    "date": "2026-11-16",
-    "notes": "Smart POS 2.7.3: التلفون بيقدر يسجّل بالـ QR من شاشة التفعيل ويشتغل على كاش الكمبيوتر",
-    "desktop": {
-      "file": "smartpos-desktop-2.7.3.pkg",
-      "sha256": "a0d820a797dad25f8d3dc3d2457b3e54b15dec521040da97a0b6c496519da0b6",
-      "size": 340022,
-      "minShell": "2.7.0",
-      "shells": [
-        "2.7.0"
-      ]
-    },
-    "android": {
-      "file": "smartpos-android-2.7.3.pkg",
-      "sha256": "f0b99c2bf82bc9dfb9df510675d33b0d3b8a7d6d93d5d3ea44bc268d5a9bf595",
-      "size": 978501,
-      "minShell": "2.7.0",
-      "shells": [
-        "2.7.0"
-      ]
-    }
-  },
-  "sig": "b1587cb8a77cb885385d3d8ebb03bf02eb84a2f86b6c9c09f0bc147028b3ee57494475a1694099b4e47e0ec520220ae94fc208f422bdd9c23a4cf2ad266b4704"
+  "published": "2026-11-17T03:15:24.034Z",
+  "sig": "33856f96dca1842d1085cc14f9705f9eb58a655ebe2f1592de113f2fb4d36ecf03a29111cb08cc72d2f33984eca440e2815fbc5716eea53c89e6899c7298ad0d"
 }
