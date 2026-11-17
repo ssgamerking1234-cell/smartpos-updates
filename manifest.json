@@ -54,14 +54,14 @@
       }
     }
   ],
-  "published": "2026-11-16T23:14:03.259Z",
+  "published": "2026-11-16T23:25:58.333Z",
   "latest": {
-    "version": "2.7.2",
+    "version": "2.7.3",
     "date": "2026-11-16",
-    "notes": "Smart POS 2.7.2: ادخل على الكمبيوتر من تلفونك — صوّر كود شاشة الدخول (زي واتساب ويب)",
+    "notes": "Smart POS 2.7.3: التلفون بيقدر يسجّل بالـ QR من شاشة التفعيل ويشتغل على كاش الكمبيوتر",
     "desktop": {
-      "file": "smartpos-desktop-2.7.2.pkg",
-      "sha256": "07c6593331cc30875fe6ac4793add59a65cd808563c9551ebb08e89e6b4bdc34",
+      "file": "smartpos-desktop-2.7.3.pkg",
+      "sha256": "a0d820a797dad25f8d3dc3d2457b3e54b15dec521040da97a0b6c496519da0b6",
       "size": 340022,
       "minShell": "2.7.0",
       "shells": [
@@ -69,14 +69,14 @@
       ]
     },
     "android": {
-      "file": "smartpos-android-2.7.2.pkg",
-      "sha256": "a7254b485524a6194d3e659283847349d4c59ddfa1d23ce63939b42dbc0fdf44",
-      "size": 978143,
+      "file": "smartpos-android-2.7.3.pkg",
+      "sha256": "f0b99c2bf82bc9dfb9df510675d33b0d3b8a7d6d93d5d3ea44bc268d5a9bf595",
+      "size": 978501,
       "minShell": "2.7.0",
       "shells": [
         "2.7.0"
       ]
     }
   },
-  "sig": "a0a2b9325ef1cf6a5d246b69d9d1e5216c39781aaf0a023e744ea6765f9f373e56c571df7f451c7947ee4135253370d6f760126960607183f6a633e50d1f5509"
+  "sig": "b1587cb8a77cb885385d3d8ebb03bf02eb84a2f86b6c9c09f0bc147028b3ee57494475a1694099b4e47e0ec520220ae94fc208f422bdd9c23a4cf2ad266b4704"
 }
