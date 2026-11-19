@@ -70,7 +70,7 @@
       "date": "2026-11-19",
       "notes": "Smart POS 2.9.0: ربط التلفونات عن طريق الإنترنت — بدون نفس الواي فاي وبدون إعدادات شبكة",
       "desktopShell": "8127e6bc9754ec43928d31bd",
-      "androidShell": "5226a8e72705e8b9c330400b",
+      "androidShell": "df5d5bc62a3204783df52102",
       "desktopExe": {
         "file": "Smart-POS-Portable-2.9.0-x64.exe",
         "sha256": "75115d3f0ab93289e9c9e360012f0c3974eb7d04ab4ff79cefeb5f1d80947b28",
@@ -78,29 +78,29 @@
       }
     }
   ],
-  "published": "2026-11-19T02:31:06.970Z",
+  "published": "2026-11-19T02:52:14.343Z",
   "latest": {
-    "version": "2.9.2",
+    "version": "2.9.3",
     "date": "2026-11-19",
-    "notes": "Smart POS 2.9.2: البرنامج بيتذكّر اسم المستخدم وكلمة السر وبيفوت لحاله، والـ QR بيفتح على تطبيق التلفون",
+    "notes": "Smart POS 2.9.3: تصليح المخزون (البيع ما بيوقف، الوجبات، الأسعار، التقارير)، تذكّر كلمة السر، والـ QR بيفتح التطبيق مباشرة",
     "desktop": {
-      "file": "smartpos-desktop-2.9.2.pkg",
-      "sha256": "bb92ebd7690dbf0f697571cd0b34c4d2da2f2a694d76d2b2ea201213ee136159",
-      "size": 343790,
+      "file": "smartpos-desktop-2.9.3.pkg",
+      "sha256": "e7798eb956b83663b9d004916c7cd262a0f02f57d9f48bb2490aeb6a135ea065",
+      "size": 346406,
       "minShell": "2.9.0",
       "shells": [
         "2.9.0"
       ]
     },
     "android": {
-      "file": "smartpos-android-2.9.2.pkg",
-      "sha256": "ac980f2926aad85b4f6b41dde0000c6c7aef71e04f8fc939d062c2544583b3bf",
-      "size": 983227,
+      "file": "smartpos-android-2.9.3.pkg",
+      "sha256": "ba5218ed0cbb87a56058d746fa71c3f4c74472e2b1c656be55867fe46317a14a",
+      "size": 985982,
       "minShell": "2.9.0",
       "shells": [
         "2.9.0"
       ]
     }
   },
-  "sig": "067bc4acdef4e583427ba6b48ad299432b48860a9c47479a7494bd30e0c35e703dbc89e78edd46399989ec6b40ed595112e8df47fd702425e52b67eb50f19f04"
+  "sig": "b5edb893325a833c44f0cbf374dbe2e36fce3ece040e16b0e38d318ee0e1c92c276a04f88076ee196e9d24a9e39c5850bb46dad025e3229834939b2730e9a805"
 }
