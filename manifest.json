@@ -78,6 +78,29 @@
       }
     }
   ],
-  "published": "2026-11-19T01:37:53.999Z",
-  "sig": "3186f6d6041973ccba0b105bf62c7514bab91ac99c2bafba0ad692119f3e6c402b18e0afc3450eff3ac195f358c6bcd7a6820d9a69eea70682c2d53b59f45e06"
+  "published": "2026-11-19T02:05:04.308Z",
+  "latest": {
+    "version": "2.9.1",
+    "date": "2026-11-19",
+    "notes": "Smart POS 2.9.1: تشغيل الربط عن طريق الإنترنت — التلفونات بتشتغل من أي شبكة",
+    "desktop": {
+      "file": "smartpos-desktop-2.9.1.pkg",
+      "sha256": "89306e08f5e319d10e039332447d495c33cb58c23108d01c6c0259210eb8c90d",
+      "size": 342299,
+      "minShell": "2.9.0",
+      "shells": [
+        "2.9.0"
+      ]
+    },
+    "android": {
+      "file": "smartpos-android-2.9.1.pkg",
+      "sha256": "76bc4be9be1ed2c35b86a517fc484ced1eb2755702a6de58123748988642a675",
+      "size": 980968,
+      "minShell": "2.9.0",
+      "shells": [
+        "2.9.0"
+      ]
+    }
+  },
+  "sig": "c4281f0bc8b72c5e4e2217ab6477edc72dc4b03b134f72bf5978bd6aff7659f818482fb68ad7104e03d752ae07e0ea2baeed29c7a569a6d145e0aa790e266106"
 }
