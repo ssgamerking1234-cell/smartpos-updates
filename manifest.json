@@ -70,7 +70,7 @@
       "date": "2026-11-19",
       "notes": "Smart POS 2.9.0: ربط التلفونات عن طريق الإنترنت — بدون نفس الواي فاي وبدون إعدادات شبكة",
       "desktopShell": "8127e6bc9754ec43928d31bd",
-      "androidShell": "df5d5bc62a3204783df52102",
+      "androidShell": "e6a988271aba891207b17b10",
       "desktopExe": {
         "file": "Smart-POS-Portable-2.9.0-x64.exe",
         "sha256": "75115d3f0ab93289e9c9e360012f0c3974eb7d04ab4ff79cefeb5f1d80947b28",
@@ -78,14 +78,14 @@
       }
     }
   ],
-  "published": "2026-11-19T02:52:14.343Z",
+  "published": "2026-11-19T03:13:59.460Z",
   "latest": {
-    "version": "2.9.3",
+    "version": "2.9.4",
     "date": "2026-11-19",
-    "notes": "Smart POS 2.9.3: تصليح المخزون (البيع ما بيوقف، الوجبات، الأسعار، التقارير)، تذكّر كلمة السر، والـ QR بيفتح التطبيق مباشرة",
+    "notes": "Smart POS 2.9.4: تطبيق التلفون بيفتح كاش Cloudflare مباشرة بدون ما يعلق",
     "desktop": {
-      "file": "smartpos-desktop-2.9.3.pkg",
-      "sha256": "e7798eb956b83663b9d004916c7cd262a0f02f57d9f48bb2490aeb6a135ea065",
+      "file": "smartpos-desktop-2.9.4.pkg",
+      "sha256": "b6086b6cd30f5d126757b236193fae748d7e5b3aa011a5180fa17137401fb77e",
       "size": 346406,
       "minShell": "2.9.0",
       "shells": [
@@ -93,8 +93,8 @@
       ]
     },
     "android": {
-      "file": "smartpos-android-2.9.3.pkg",
-      "sha256": "ba5218ed0cbb87a56058d746fa71c3f4c74472e2b1c656be55867fe46317a14a",
+      "file": "smartpos-android-2.9.4.pkg",
+      "sha256": "6d5142fe8f58a4852b178c3597d3f5a54ec4344349d172688c9bc3e2a80923d7",
       "size": 985982,
       "minShell": "2.9.0",
       "shells": [
@@ -102,5 +102,5 @@
       ]
     }
   },
-  "sig": "b5edb893325a833c44f0cbf374dbe2e36fce3ece040e16b0e38d318ee0e1c92c276a04f88076ee196e9d24a9e39c5850bb46dad025e3229834939b2730e9a805"
+  "sig": "73d29cb4717f1a3526c6cd37eb6d8fbb42fb71b9d09cb938830bbc80556430fd478a3f39e86c0ce30d4ab97d94e434d5fd0c89f833f82e04ca81d20827f9d306"
 }
