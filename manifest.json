@@ -78,29 +78,29 @@
       }
     }
   ],
-  "published": "2026-11-19T03:13:59.460Z",
+  "published": "2026-11-19T12:15:41.700Z",
   "latest": {
-    "version": "2.9.4",
+    "version": "2.9.5",
     "date": "2026-11-19",
-    "notes": "Smart POS 2.9.4: تطبيق التلفون بيفتح كاش Cloudflare مباشرة بدون ما يعلق",
+    "notes": "Smart POS 2.9.5: زر فتح/إغلاق الوردية بالزاوية جنب الإدارة والمزيد",
     "desktop": {
-      "file": "smartpos-desktop-2.9.4.pkg",
-      "sha256": "b6086b6cd30f5d126757b236193fae748d7e5b3aa011a5180fa17137401fb77e",
-      "size": 346406,
+      "file": "smartpos-desktop-2.9.5.pkg",
+      "sha256": "05b55062f89812e8fe553d2898c39e691edf9772416c98c1c9d2d9dac1daddfc",
+      "size": 348557,
       "minShell": "2.9.0",
       "shells": [
         "2.9.0"
       ]
     },
     "android": {
-      "file": "smartpos-android-2.9.4.pkg",
-      "sha256": "6d5142fe8f58a4852b178c3597d3f5a54ec4344349d172688c9bc3e2a80923d7",
-      "size": 985982,
+      "file": "smartpos-android-2.9.5.pkg",
+      "sha256": "bceb2f88149b84d440d306d48ea824c24cedd75e9105b872d2b62265333c95e3",
+      "size": 987781,
       "minShell": "2.9.0",
       "shells": [
         "2.9.0"
       ]
     }
   },
-  "sig": "73d29cb4717f1a3526c6cd37eb6d8fbb42fb71b9d09cb938830bbc80556430fd478a3f39e86c0ce30d4ab97d94e434d5fd0c89f833f82e04ca81d20827f9d306"
+  "sig": "7aa2123a0255bb575990e908d09c3beaab0e6d19c887724891921d3c5bb9d7c2bd1a2959f0364647ab897b8a45398d444784ef1527b580f9599c60e8a5ed6904"
 }
