@@ -76,31 +76,44 @@
         "sha256": "75115d3f0ab93289e9c9e360012f0c3974eb7d04ab4ff79cefeb5f1d80947b28",
         "size": 99846057
       }
+    },
+    {
+      "version": "2.9.6",
+      "date": "2026-11-19",
+      "notes": "Smart POS 2.9.6: طباعة أوضح وأغمق وما بتنقص من الأطراف",
+      "desktopShell": "ff742df155cff49e70564809",
+      "androidShell": "e6a988271aba891207b17b10",
+      "desktopExe": {
+        "file": "Smart-POS-Portable-2.9.6-x64.exe",
+        "sha256": "f9978d6e93d08039f979290b3925ec429165fa5d7872a3a4f7c5caece0e02e7d",
+        "size": 99852012
+      }
     }
   ],
-  "published": "2026-11-19T12:15:41.700Z",
+  "published": "2026-11-23T14:52:02.562Z",
   "latest": {
-    "version": "2.9.5",
-    "date": "2026-11-19",
-    "notes": "Smart POS 2.9.5: زر فتح/إغلاق الوردية بالزاوية جنب الإدارة والمزيد",
+    "version": "2.9.7",
+    "date": "2026-11-23",
+    "notes": "Smart POS 2.9.7: تقسيم الفاتورة على أكثر من شخص (حسب الأصناف أو بالتساوي)",
     "desktop": {
-      "file": "smartpos-desktop-2.9.5.pkg",
-      "sha256": "05b55062f89812e8fe553d2898c39e691edf9772416c98c1c9d2d9dac1daddfc",
-      "size": 348557,
-      "minShell": "2.9.0",
+      "file": "smartpos-desktop-2.9.7.pkg",
+      "sha256": "d5fe9b69e4be3a97f305ce3f36117156f335daf065c802fbabc443af2432580b",
+      "size": 355548,
+      "minShell": "2.9.6",
       "shells": [
-        "2.9.0"
+        "2.9.6"
       ]
     },
     "android": {
-      "file": "smartpos-android-2.9.5.pkg",
-      "sha256": "bceb2f88149b84d440d306d48ea824c24cedd75e9105b872d2b62265333c95e3",
-      "size": 987781,
+      "file": "smartpos-android-2.9.7.pkg",
+      "sha256": "64396677734d646917e6225816fb0d99bbfa0a741683a0cfc90e4d2d062e7cdd",
+      "size": 994304,
       "minShell": "2.9.0",
       "shells": [
-        "2.9.0"
+        "2.9.0",
+        "2.9.6"
       ]
     }
   },
-  "sig": "7aa2123a0255bb575990e908d09c3beaab0e6d19c887724891921d3c5bb9d7c2bd1a2959f0364647ab897b8a45398d444784ef1527b580f9599c60e8a5ed6904"
+  "sig": "d6bd57e0eb5bf886f1d7a4fd934ba523f9e4e8a011e91603f6e9a4fc50d10eec2d882917687401343dbc6c60b76db3f342c8aa5dcf3ae4029011433cfed08006"
 }
